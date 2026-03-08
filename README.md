@@ -1,2 +1,2 @@
-# -Green-Supermarket
-A modern e-commerce platform built in Java to streamline online grocery shopping and enhance both customer convenience and operational efficiency for supermarket owners
+# Green-Supermarket
+A modern e-commerce platform built in Java to streamline online grocery shopping and enhance both customer convenience and operational efficiency for supermarket owners. This system replaces outdated infrastructure by offering a smooth digital experience with secure payments, real-time notifications, and parcel tracking. It supports Green Supermarket’s digital transformation, aligning with modern consumer demands and improving overall business performance
